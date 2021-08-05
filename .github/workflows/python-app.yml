@@ -34,4 +34,6 @@ jobs:
     - name: Test with unittest
       run: |
         python tests.py
+    - name: Test2 with unittest
+      run: |
         python tests2.py
